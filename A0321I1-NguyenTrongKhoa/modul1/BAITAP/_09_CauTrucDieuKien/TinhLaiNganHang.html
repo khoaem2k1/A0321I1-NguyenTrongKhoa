@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let x;
+    let tienlai;
+    let tiengui = prompt("Nhập số tiền: ");
+    let laisuat = prompt("Nhập tiền lãi: ");
+    let thoihan = prompt("Nhập thời gian gửi:");
+    for(x=4;x>=0;x--){
+        tienlai=(tiengui*laisuat*thoihan)/100;
+        document.writeln( "Tien gui ban dau = " + tiengui);
+        document.writeln("Lai suat = " + laisuat  );
+        document.writeln("Thoi han = " + thoihan + " nam" );
+        document.writeln( "So tien lai = " + tienlai );
+    }
+</script>
+
+</body>
+</html>
