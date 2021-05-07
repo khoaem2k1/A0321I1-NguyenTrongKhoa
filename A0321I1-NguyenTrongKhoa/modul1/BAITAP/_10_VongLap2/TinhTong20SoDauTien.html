@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let count = 20, num1 = 0, num2 = 1, sum = 0;
+    for (let i = 1; i < count; ++i){
+        let tong = num1 + num2;
+        sum +=tong;
+        num1 = num2;
+        num2 = tong;
+    }
+    document.writeln("Tổng 20 số đầu tiên trong dãy fibonaci: "+ sum);
+</script>
+
+</body>
+</html>
