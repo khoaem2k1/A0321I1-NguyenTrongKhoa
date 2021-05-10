@@ -7,16 +7,15 @@
 <body>
 <script>
 
-        let a = 1;
-        let b = 0;
-        let temp;
-        let num;
+    var i;
+    var fib = [];
 
-        while (num >= 0){
-            temp = a;
-            a = a + b;
-            b = temp;
-            num--;
+    fib[0] = 0;
+    fib[1] = 1;
+    for (i = 2; i <= 20; i++) {
+
+        fib[i] = fib[i - 2] + fib[i - 1];
+        document.writeln(fib[i]);
     }
 
 </script>
