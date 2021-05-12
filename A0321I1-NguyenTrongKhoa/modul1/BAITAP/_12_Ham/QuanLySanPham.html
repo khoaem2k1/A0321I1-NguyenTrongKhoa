@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Quản Lý Sản Phẩm</title>
+</head>
+<body>
+<h1>Quản Lý Sản Phẩm</h1>
+<input type="text" placeholder="nhập tên SP" id="name">
+<input type="button" onclick="addNewProduct()" value="Add" ><br>
+<span>Số lượng sản phẩm </span>
+<span id="soluong"></span>
+<p id="hienthi"></p>
+<script>
+    let listProduct = ["iphone", "nokia", "samsung"];
+    display(listProduct);
+    function addNewProduct() {
+        let newName = document.getElementById("name").value;
+        if(newName!=""){
+            listProduct.push(newName);
+        }else {
+            alertMessage("Nhập tên sản phẩm");
+        }
+        document.getElementById("name").value="";
+        display(listProduct);
+    }
+    function display(list){
+        let tableString = '<table border="1">\n' +
+            '    <tr>\n' +
+            '        <th>STT</th>\n' +
+            '        <th>TenSP</th>\n' +
+            '        <th>Sửa</th>\n' +
+            '        <th>Xóa</th>\n' +
+            '    </tr>';
+        for(let i = 0; i <list.length; i++){
+            tableString += '<tr>\n' +
+                '        <td>'+(i+1)+'</td>\n' +
+                '        <td>'+list[i]+'</td>\n' +
+                '        <td><input type="button" onclick="editprodut('+i+')" value="Sửa"></td>\n' +
+                '        <td><input type="button" onclick="deleteProduct('+i+')" value="Xoá"></td>\n' +
+                '    </tr>'
+        }
+        tableString+='<table>';
+        document.getElementById("hienthi").innerHTML = tableString;
+        document.getElementById("soluong").innerHTML = list.length;
+    }
+    function editprodut(index) {
+        let editName = prompt("Nhập vào tên Sp cần sửa");
+        if(editName!=""&&editName!=null){
+            listProduct[index]= editName;
+        }
+        display(listProduct)
+    }
+    function deleteProduct(index) {
+        let conf = confirm("Bạn có muốn xóa sản phẩm "+ listProduct[index]);
+        if(conf){
+            listProduct.splice(index,1);
+        }else {
+            alert("ban không muốn xóa");
+        }
+        display(listProduct);
+    }
+
+</script>
+</body>
+</html>
