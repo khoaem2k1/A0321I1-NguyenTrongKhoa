@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function TGCR() {
+        var h = 5;
+        var m = h, n = h;
+        for (let i = 1; i <= h; i++)
+        {
+            for (let j = 1; j <= 2 * h - 1; j++)
+            {
+                if (j == m || j == n || i== h)
+                    document.writeln("*");
+                else
+                    document.writeln("&nbsp;&nbsp;");
+            }
+            m--;
+            n++;
+            document.writeln("<br>");
+        }
+    }
+    TGCR();
+</script>
+
+</body>
+</html>
