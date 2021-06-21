@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function createMatrix(){
+        let m = parseInt(prompt("Nhập vào số dòng của ma trận"));
+        let n = parseInt(prompt("Nhập vào số cột của ma trận"));
+        let matrix = [];
+        let total = 0;
+        for (let i = 0; i < m; i++){
+            let row = [];
+            for (let j = 0; j < n; j++){
+                row[j] = parseInt(prompt("Nhập số vào ma trận"));
+            }
+            matrix[i] = row;
+        }
+        return matrix;
+    }
+    // let matrix1 = createMatrix();
+    function totalEven(matrix) {
+        let total = 0;
+        for (let i =0; i < matrix.length;i++) {
+            for (let j = 0; j < matrix[i].length; j++) {
+                if (matrix[i][j] % 2 === 0) {
+                    total += matrix[i][j];
+                }
+            }
+        }
+        console.table(matrix);
+        alert("Tổng của các số chẵn trong ma trận là: "+ total);
+    }
+    // totalEven(matrix1);
+    // ________________________________________________
+//Bài 2
+//     ________________________________________________
+//     let matrix2 = createMatrix();
+    function checkPrime(number) {
+        if(number < 2){
+            return false;
+        }
+        for (let i = 2; i <= Math.sqrt(number);i++){
+            if(number % i === 0){
+                return false;
+            }
+        }
+        return true;
+    }
+    function findPrime(matrix) {
+        let primeArr = [];
+        for (let i = 0; i < matrix.length; i++){
+            for (let j = 0; j < matrix[i].length; j++){
+                if (checkPrime(matrix[i][j])){
+                    primeArr.push(matrix[i][j]);
+                }
+            }
+        }
+        console.table(matrix);
+        console.log(primeArr);
+    }
+    // findPrime(matrix2);
+
+    // ________________________________________________
+    //Bài 3
+    //     ________________________________________________
+
+    let matrix3 = createMatrix();
+    function findMaxAndMin(matrix) {
+        let max = matrix[0][0];
+        let min = matrix[0][0];
+        for (let i = 0; i < matrix.length;i++){
+            for (let j = 0; j < matrix[i].length;j++){
+                if (max < matrix[i][j]){
+                    max = matrix[i][j];
+                }
+            }
+        }
+        console.table(matrix);
+        alert("Phân tử lớn nhất là:" + max + "\n Phân tử bé nhất là: " + min);
+    }
+    findMaxAndMin(matrix3);
+</script>
+</body>
+</html>
