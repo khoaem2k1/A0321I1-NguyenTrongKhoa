@@ -1,0 +1,19 @@
+package b4_lop_va_doi_tuong_trong_java.bai_tap;
+
+public class demo {
+    void method() {
+
+    }
+
+    void method(int x) {
+
+    }
+
+    void method(float x) {
+
+    }
+
+    void method(int x, double y) {
+        
+    }
+}
