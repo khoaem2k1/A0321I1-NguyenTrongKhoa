@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b506456-8510-46f1-a954-a4a46d4778f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/b4_lop_va_doi_tuong_trong_java/bai_tap/PhuongTrinhBac2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6_ke_thua/bai_tap/circle_cylinder/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6_ke_thua/bai_tap/circle_cylinder/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6_ke_thua/bai_tap/circle_cylinder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6_ke_thua/bai_tap/point2d_point3d/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6_ke_thua/bai_tap/point2d_point3d/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6_ke_thua/bai_tap/point2d_point3d/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6_ke_thua/bai_tap/point_moveablePoint/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6_ke_thua/bai_tap/point_moveablePoint/MoveAblePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6_ke_thua/bai_tap/point_moveablePoint/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6_ke_thua/thuc_hanh/circle/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6_ke_thua/thuc_hanh/circle/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6_ke_thua/thuc_hanh/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6_ke_thua/thuc_hanh/rectangle/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6_ke_thua/thuc_hanh/rectangle/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6_ke_thua/thuc_hanh/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6_ke_thua/thuc_hanh/shape/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6_ke_thua/thuc_hanh/square/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b6_ke_thua/thuc_hanh/square/SquareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitProject" beforeDir="false" afterPath="$PROJECT_DIR$/../GitProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modul2/b4_lop_va_doi_tuong_trong_java/bai_tap/PhuongTrinhBac2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modul2/b5_access_modifier_static_method_tatic_property/thuc_hanh/static_property/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modul2/b5_access_modifier_static_method_tatic_property/thuc_hanh/static_property/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b4_lop_va_doi_tuong_trong_java/bai_tap/PhuongTrinhBac2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b5_access_modifier_static_method_tatic_property/thuc_hanh/static_property/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b5_access_modifier_static_method_tatic_property/thuc_hanh/static_property/Car.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1u2DAzVBrUyHWJyf1KXTGafnGq4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="b2_vong_lap_trong_java.bai_tap" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b6_ke_thua.bai_tap.point2d_point3d.Main" />
+      <module name="Modul2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b6_ke_thua.bai_tap.point2d_point3d.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b6_ke_thua.bai_tap.point_moveablePoint.Main" />
+      <module name="Modul2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b6_ke_thua.bai_tap.point_moveablePoint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b4_lop_va_doi_tuong_trong_java.bai_tap.PhuongTrinhBac2.Main" />
+      <module name="Modul2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b4_lop_va_doi_tuong_trong_java.bai_tap.PhuongTrinhBac2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b6_ke_thua.bai_tap.circle_cylinder.Main" />
+      <module name="Modul2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b6_ke_thua.bai_tap.circle_cylinder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b6_ke_thua.bai_tap.circle_cylinder.Main" />
+      <module name="Modul2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b6_ke_thua.bai_tap.circle_cylinder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b6_ke_thua.thuc_hanh.shape.ShapeTest" />
+      <module name="Modul2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b6_ke_thua.thuc_hanh.shape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b5_access_modifier_static_method_tatic_property.bai_tap.TestCircle" />
+      <module name="Modul2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b5_access_modifier_static_method_tatic_property.bai_tap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.ShapeTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b506456-8510-46f1-a954-a4a46d4778f0" name="Default Changelist" comment="" />
+      <created>1623854650057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623854650057</updated>
+      <workItem from="1623854652437" duration="2002000" />
+      <workItem from="1623982001209" duration="4016000" />
+      <workItem from="1624238378875" duration="8727000" />
+      <workItem from="1624441213874" duration="2035000" />
+      <workItem from="1624613735678" duration="8409000" />
+      <workItem from="1624844016761" duration="4891000" />
+      <workItem from="1624875146219" duration="1791000" />
+      <workItem from="1625051210154" duration="3468000" />
+      <workItem from="1625215429311" duration="2639000" />
+      <workItem from="1625220504563" duration="5456000" />
+      <workItem from="1625472661501" duration="4260000" />
+      <workItem from="1625655368820" duration="7834000" />
+      <workItem from="1625826862037" duration="1049000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1623854655690">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1623854655690" />
+    <state x="958" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1625663179955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="958" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1625663179955" />
+    <state width="723" height="261" key="GridCell.Tab.0.bottom" timestamp="1625666868946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1625666868946" />
+    <state width="723" height="261" key="GridCell.Tab.0.center" timestamp="1625666868946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1625666868946" />
+    <state width="723" height="261" key="GridCell.Tab.0.left" timestamp="1625666868945">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1625666868945" />
+    <state width="723" height="261" key="GridCell.Tab.0.right" timestamp="1625666868946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1625666868946" />
+    <state width="723" height="261" key="GridCell.Tab.1.bottom" timestamp="1625666868947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1625666868947" />
+    <state width="723" height="261" key="GridCell.Tab.1.center" timestamp="1625666868946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1625666868946" />
+    <state width="723" height="261" key="GridCell.Tab.1.left" timestamp="1625666868946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1625666868946" />
+    <state width="723" height="261" key="GridCell.Tab.1.right" timestamp="1625666868946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1625666868946" />
+    <state x="863" y="17" width="579" height="795" key="find.popup" timestamp="1624615244687">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="863" y="17" width="579" height="795" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1624615244687" />
+    <state x="996" y="173" key="refactoring.ChangeSignatureDialog" timestamp="1625658903737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="996" y="173" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1625658903737" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1625222717506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1625222717506" />
+  </component>
+</project>
