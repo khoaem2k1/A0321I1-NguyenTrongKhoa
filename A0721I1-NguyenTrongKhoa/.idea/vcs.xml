@@ -8,5 +8,7 @@
     <mapping directory="$PROJECT_DIR$/src/b2_Vong_lap_trong_Java" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/b2_Vòng_lặp_trong_Java" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/b3_" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/b3_Array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/b4_Method" vcs="Git" />
   </component>
 </project>
