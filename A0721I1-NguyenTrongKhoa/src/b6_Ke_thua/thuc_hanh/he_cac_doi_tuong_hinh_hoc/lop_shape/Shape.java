@@ -1,8 +1,8 @@
 package b6_Ke_thua.thuc_hanh.he_cac_doi_tuong_hinh_hoc.lop_shape;
 
 public class Shape {
-    String color = "green";
-    Boolean filled = true;
+    private String color = "green";
+    private boolean filled = true;
 
     public Shape() {
     }
@@ -20,19 +20,18 @@ public class Shape {
         this.color = color;
     }
 
-    public Boolean getFilled() {
+    public boolean isFilled() {
         return filled;
     }
 
-    public void setFilled(Boolean filled) {
+    public void setFilled(boolean filled) {
         this.filled = filled;
     }
 
     @Override
     public String toString() {
-        return "Shape{" +
-                "color='" + color + '\'' +
-                ", filled=" + filled +
-                '}';
+        return "A shape with color of "
+                + getColor() + " and "
+                + (isFilled() ? "filled" : "not filled");
     }
 }
