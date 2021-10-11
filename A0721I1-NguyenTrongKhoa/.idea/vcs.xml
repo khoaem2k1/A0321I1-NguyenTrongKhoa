@@ -10,5 +10,6 @@
     <mapping directory="$PROJECT_DIR$/src/b3_" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/b3_Array" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/b4_Method" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/b5_Static_modifier" vcs="Git" />
   </component>
 </project>
