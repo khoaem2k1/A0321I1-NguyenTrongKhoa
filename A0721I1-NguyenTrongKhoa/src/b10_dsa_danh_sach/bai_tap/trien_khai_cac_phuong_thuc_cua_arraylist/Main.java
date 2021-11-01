@@ -46,22 +46,22 @@ public class Main {
         studentMyList.add(d);
         studentMyList.add(e);
 //        studentMyList.add(f,2);
-        System.out.println(studentMyList.size());
-        System.out.println(studentMyList.get(2).getName());
-        System.out.println(studentMyList.indexOf(d));
-        System.out.println(studentMyList.contains(f));
+//        System.out.println(studentMyList.size());
+//        System.out.println(studentMyList.get(2).getName());
+//        System.out.println(studentMyList.indexOf(d));
+//        System.out.println(studentMyList.contains(f));
 
 //  add
-//        for (int i = 0; i < studentMyList.size(); i++){
-//            Student student = (Student) studentMyList.elements[i];
-//            System.out.println(student.getId());
-//            System.out.println(student.getName());
-//        }
-        newMyList = studentMyList.clone();
-        newMyList.remove(1);
-        for (int i = 0; i < newMyList.size(); i++){
-            System.out.println(newMyList.get(i).getName());
+        for (int i = 0; i < studentMyList.size(); i++){
+            Student student = (Student) studentMyList.elements[i];
+            System.out.println(student.getId());
+            System.out.println(student.getName());
         }
+//        newMyList = studentMyList.clone();
+//        newMyList.remove(1);
+//        for (int i = 0; i < newMyList.size(); i++){
+//            System.out.println(newMyList.get(i).getName());
+//        }
 
     }
 
