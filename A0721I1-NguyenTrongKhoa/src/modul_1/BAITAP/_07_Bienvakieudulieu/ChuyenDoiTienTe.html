@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+     <input type="number" id="nhap">
+     <select name="" id="QG">
+         <option value="VN">-VietNam-</option>
+         <option value="US">-USA-</option>
+     </select>
+     <select name="" id="TT">
+         <option value="VN">-VND-</option>
+         <option value="US">-USA-</option>
+     </select>
+     <button onclick="Tiente()">Convert</button>
+<script>
+   function Tiente() {
+        let nhapgiatri = document.getElementById('nhap').value;
+        let QuocGia = document.getElementById('QG').value;
+        let TienTe = document.getElementById('TT').value;
+        if (QuocGia == TienTe){
+            alert(nhapgiatri);
+        }
+        if (QuocGia == "VN" && TienTe == "US"){
+            alert(nhapgiatri/24000);
+        }
+   }
+</script>
+
+</body>
+</html>

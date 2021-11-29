@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let kiemtra = parseInt(prompt("Nhập điểm kiểm tra:"));
+    let baithi = parseInt(prompt("nhập điểm bài thi:"));
+    let cuoiky = parseInt(prompt("Nhập điểm cuối kỳ:"));
+    let trungbinh = (kiemtra+baithi+cuoiky)/3;
+    if(trungbinh>=9){
+        document.writeln("Hạng A");
+    }else if(trungbinh>=7 && trungbinh<9){
+        document.writeln("Hạng B");
+    }else if(trungbinh>=5 && trungbinh<7){
+        document.writeln("Hạng C");
+    }else if(trungbinh>=3.5 && trungbinh<5){
+        document.writeln("Hạng D");
+    }else {
+        document.writeln("Rớt");
+    }
+</script>
+
+</body>
+</html>

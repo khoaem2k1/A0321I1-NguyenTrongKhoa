@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    class Rectangle {
+        constructor(cd, cr) {
+            this.cd = cd;
+            this.cr = cr;
+        }
+        getCd(){
+            return this.cd;
+        }
+        getCr(){
+            return this.cr;
+        }
+        getCv() {
+            return (this.cd + this.cr)*2;
+        }
+
+        getDt() {
+            return this.cr * this.cd;
+        }
+        show() {
+            return "Chiều dài : " + this.getCd() + "<br>" + "Chiều rộng: " + this.getCr() + "<br>" + "Chu vi : " +  this.getCv() + "<br>" + "Diện tích: " + this.getDt();
+        }
+    }
+        let ok = new Rectangle(10,20);
+        document.writeln(ok.show());
+</script>
+
+</body>
+</html>

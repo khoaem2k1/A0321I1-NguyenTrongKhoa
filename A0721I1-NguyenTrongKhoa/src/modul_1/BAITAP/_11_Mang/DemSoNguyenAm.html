@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var chuoi = prompt('Nhập chuỗi :');
+    var nguyenAm = 0;
+    for (let i = 0; i < chuoi.length;i++) {
+        if (chuoi[i] == 'a' || chuoi[i] == 'A' || chuoi[i] == 'e' || chuoi[i] == 'E' ||
+            chuoi[i] == 'o' || chuoi[i] == 'O' || chuoi[i] == 'i' || chuoi[i] == 'I' ||
+            chuoi[i] == 'u' || chuoi[i] == 'U') {
+            nguyenAm++;
+        }
+    }
+    document.writeln("Số nguyên âm : " + nguyenAm);
+</script>
+
+</body>
+</html>

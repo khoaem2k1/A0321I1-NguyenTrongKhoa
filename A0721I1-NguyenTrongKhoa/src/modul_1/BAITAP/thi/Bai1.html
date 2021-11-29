@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var arr = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20];
+    var count = 0;
+    var sum = 0;
+    var result = 0;
+
+    arr.forEach(function (item) {
+        if(item % 3 == 0){
+            sum += item;
+            count++;
+        }
+    });
+    result = sum / count;
+    document.writeln("Trung bình công của mảng là: " + result);
+</script>
+</body>
+</html>
